@@ -12,7 +12,7 @@ from kivymd.uix.gridlayout import MDGridLayout
 from pygments.lexers import HtmlLexer
 
 from config import BACKUP_DAYS, DIR_RESULT
-from libs.email_text import get_html
+from libs.html import get_html
 from libs.files import del_old_files, save_file_html
 from libs.utils import get_time_now
 
