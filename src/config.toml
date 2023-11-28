@@ -1,0 +1,6 @@
+[utils]
+console_indent = '...'
+
+[dirs]
+result='_result'
+backup_days=7

@@ -1,0 +1,9 @@
+beautifulsoup4==4.11.1
+colorama==0.4.6
+Kivy==2.2.1
+kivymd==1.1.1
+loguru==0.7.2
+mammoth==1.6.0
+Pygments==2.17.2
+pyperclip==1.8.2
+toml==0.10.2
