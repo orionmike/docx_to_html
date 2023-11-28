@@ -1,5 +1,4 @@
 beautifulsoup4==4.11.1
-colorama==0.4.6
 Kivy==2.2.1
 kivymd==1.1.1
 loguru==0.7.2
